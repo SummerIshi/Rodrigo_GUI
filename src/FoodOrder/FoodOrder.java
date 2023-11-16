@@ -44,7 +44,7 @@ public class FoodOrder extends JFrame {
 
             }
             else if(rb5.isSelected()){
-                disc = 0.5;
+                disc = 0.05;
 
             }
             else if(rb10.isSelected()){
